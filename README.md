@@ -1,2 +1,3 @@
-# ArsiTrendz-Backend
-Backend foe arsi trends shoping app
+# Arsi Trendz Backend
+
+Setup instructions...
